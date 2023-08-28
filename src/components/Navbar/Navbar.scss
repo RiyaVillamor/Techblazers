@@ -1,0 +1,41 @@
+@import "../../styles/main.scss";
+
+.navbar {
+  background-color: var(--primary-500);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+
+  .toggle-button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 10px;
+    transition: color 0.3s ease-in-out;
+
+    &:hover {
+      color: #f0f0f0;
+    }
+  }
+}
+
+.logo-navbar {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.3rem;
+
+  img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 5px;
+  }
+}
