@@ -131,7 +131,7 @@ const classData = [
     notes: 'Class Ends 02:28:14',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Portfolio Website Sample Creation',
     link: 'https://www.youtube.com/watch?v=gUf98Myzdjo',
     notes: '',
@@ -184,7 +184,7 @@ const classData = [
     link: 'http://www.youtube.com/watch?v=8A30E5kKzLY',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Git and NodeJS Installation, Setup to VS Code',
     link: 'https://www.youtube.com/watch?v=-g8tr3Y7O_8',
     notes: '',
@@ -202,13 +202,13 @@ const classData = [
     notes: 'Starting 03:40:04, please rewatch the extra materials below instead of this live session',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Git Initial Setup and Creating / Publishing Git Repository',
     link: 'https://www.youtube.com/watch?v=625kGynJWxc',
     notes: '',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Improve Public Speaking / Communication Skills by Vinh Giang',
     link: 'https://youtube.com/playlist?list=PLKRkyxRv9DierhLaWEjknnDGtuokcn8QM',
     notes: '',
@@ -269,7 +269,7 @@ const classData = [
     link: 'https://youtube.com/live/hbjqhqlv0Ys',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Algorithm Problem 10 Flowchart',
     link: 'https://www.youtube.com/watch?v=UrMBJ1RlXUw',
     notes: '',
@@ -281,7 +281,7 @@ const classData = [
     notes: 'Skip from 00:15:42 to 00:33:28\nClass Ends 00:42:03',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Algorithm Problem 1-12 Solutions',
     link: 'https://klanezurbano.github.io/wd73-student-list/problems.html',
     notes: '',
@@ -317,7 +317,7 @@ const classData = [
     notes: 'Passcode: F&nX^w6@\nSkip from 01:55:25 to 02:26:09',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Exercise 2c Solution Explanation',
     link: 'https://www.youtube.com/watch?v=N-v8BqK8r2c',
     notes: '',
@@ -440,7 +440,7 @@ const classData = [
     notes: 'No Class discussion',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'Data Structures and Algorithms',
     link: 'https://www.youtube.com/watch?v=ntfmTlBQgtU',
   },
@@ -511,28 +511,28 @@ const classData = [
     notes: 'No recording since there are no class discussion',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 1 - React Router',
     link: 'https://youtu.be/6YIgE0Fr-b8',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 2 - Local State',
     link: 'https://youtu.be/iJsP5w8Rf-4',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 3 - Route Params',
     link: 'https://youtu.be/NeII-9DTHX0',
     notes: '- undefined error you might encounter on 11th min, see fix on 15th min',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 4 - Redux (Global State)',
     link: 'https://youtu.be/EphTLKsrpTI',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 5 - Featured Product and Loading Spinner',
     link: 'https://youtu.be/icOsoeB0ij4',
   },
@@ -548,32 +548,32 @@ const classData = [
     notes: '- Kodego announcement 00:29:00-00:43:00\n- Recap local and global state 01:02:00 to 01:44:30\n- Recap useEffect 02:23:50 to 02:32:50\n- Tips and advice for writing better code and debugging 03:01:54 to 03:27:50',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 6 - Navbar active and Page not found',
     link: 'https://youtu.be/5XjOjUNk33w',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 7a - Favorite Meals',
     link: 'https://youtu.be/CGrGMyvWn64',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 7b - Favorite Meals',
     link: 'https://youtu.be/RlVVqZ4cko8',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 8 - Redux Persist',
     link: 'https://youtu.be/tM3RJ9P3PTI',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 9a - Formik',
     link: 'https://youtu.be/3QRvuS4cgAE',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 9b - Yup',
     link: 'https://youtu.be/Pc8KjlT4Gsg',
   },
@@ -722,32 +722,32 @@ const classData = [
     notes: 'Skip from 01:44:57 to 02:12:06\nSkip from 03:01:20 to 03:27:05',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 10 - Wireframes and ERD',
     link: 'https://youtu.be/13otDIoVPP0',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 11a - Migration',
     link: 'https://youtu.be/1sYZKapgk-4',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 11b - Seeder',
     link: 'https://youtu.be/wqT2b2wzVwU',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 12a - GET routes',
     link: 'https://youtu.be/-i7uV5sJBZM',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 12b - POST, PATCH, DELETE routes',
     link: 'https://youtu.be/8G96pA8GLew',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 13 - Relationships',
     link: 'https://youtu.be/H_zRx-OHWpo',
   },
@@ -772,32 +772,32 @@ const classData = [
     link: 'https://www.youtube.com/watch?v=iB2CUvRcJW4',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 14 - Frontend-Backend API Integration',
     link: 'https://youtu.be/84Jc99qFj8o',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 15a - Laravel Photo Upload',
     link: 'https://drive.google.com/file/d/10DA8ANR2PtfBVflEVdL0fnhsSF3-7bB_/view?usp=sharing',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 15b - ReactJS Photo Upload, Laravel Delete Constraints',
     link: 'https://drive.google.com/file/d/1dnItXbDfubeC7FzbVbnjFz4fs2IiPr5c/view?usp=sharing',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 16 - Laravel Auth',
     link: 'https://drive.google.com/file/d/1pjx3tE4IsLR8N6UnK0IgUtUGbg_7a642/view?usp=sharing',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 17a - ReactJS Protected Component',
     link: 'https://drive.google.com/file/d/1T7HFWYQt1lfgs2QHmPg0BrL2FhBc__v8/view?usp=sharing',
   },
   {
-    date: 'EXTRA MATERIALS',
+    date:<b>EXTRA MATERIALS</b>,
     description: 'DISHcovery Part 17b - ReactJS Protected Component',
     link: 'https://drive.google.com/file/d/1_t2Iw37omNcxvJzti1oe7HPS9wOhA_cV/view?usp=sharing',
     notes: 'Additional note: Since the token is already saved in loggedInUser state, you can use that token on axios requests',
@@ -817,6 +817,9 @@ const classData = [
     description: 'Capstone Presentation',
     link: 'https://youtube.com/live/vhUtVgye_14',
   },
+  
+
+
 ];
 
 
