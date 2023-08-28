@@ -1,3 +1,39 @@
+/* WebsiteProjects.scss */
+
 @import "../main.scss";
 
- 
+.website-projects-page {
+  text-align: center;
+
+  h1 {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    color: var(--primary-500);
+    text-align: start;
+    font-family: $headingFont;
+  }
+
+  .project-table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+      border: 1px solid var(--grey-200);
+      padding: 12px;
+      text-align: left;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    a {
+      text-decoration: none;
+      color: var(--primary-500);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: color 0.3s; 
+
+    }
+  }
+}
