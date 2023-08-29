@@ -1,3 +1,79 @@
 @import "../main.scss";
 
- 
+
+.exercises-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+
+  .exercise-container {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 70rem;
+
+    .exercise-list {
+    
+      flex: 1;
+      padding: 10px;  
+      border-radius: 5px;
+      margin-right: 20px;
+      background-color: var(--white);
+      max-width: 18rem;
+
+      .exercise {
+        padding: 10px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+        display: flex;
+        align-items: center;
+
+        &:hover {
+          background-color: var(--grey-200);
+        }
+
+        &.active {
+          background-color: var(--primary-500);
+          color: var(--white);
+        }
+
+        .exercise-icon {
+          margin-right: 10px;
+        }
+      }
+    }
+
+    .exercise-content {
+      flex: 2;
+      padding: 20px;
+      border: 1px solid var(--white);
+      border-radius: 5px;
+      background-color: var(--white);
+
+      .exercise-details {
+        h2 {
+          font-size: 20px;
+          margin-bottom: 10px;
+        }
+
+        .exercise-content-text {
+          p {
+            margin-top: 10px;
+            line-height: 1.5;
+          }
+        }
+      }
+    }
+  }
+}
+
+.correct-answer {
+    color: $green-dark;
+  }
