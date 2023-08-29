@@ -84,9 +84,57 @@ const ExercisesPage = () => {
     {
       id: '1e',
       title: 'Kahoot (HTML and CSS)',
-      content: 'html-css-01.png...',
+      content: (
+        <div>
+          <p><strong>Question 1:</strong> What HTML attribute do we use in tables to make a cell span for more than 1 row?</p>
+          <ul>
+            <li>A. rownum</li>
+            <li>B. colnum</li>
+            <li>C. <strong className="correct-answer">rowspan (Correct Answer)</strong></li>
+            <li>D. colspan</li>
+          </ul>
+          <p><strong>Question 2:</strong> Which of the following CSS unit do we use to specify length relative to its parent container?</p>
+          <ul>
+            <li>A. rem</li>
+            <li>B. px</li>
+            <li>C. vw</li>
+            <li>D. <strong className="correct-answer">% (Correct Answer)</strong></li>
+          </ul>
+          <p><strong>Question 3:</strong>True or<span className="correct-answer"><strong> False:</strong></span> To submit an HTML form and then redirect to another page, we can make use of the hyperlink or anchor tag?</p>
+          <p><strong>Question 4:</strong> Which input attribute should be equal to the 'for' attribute of "label" in order to bind them together?</p>
+          <ul>
+            <li>A. name</li>
+            <li>B. id <strong className="correct-answer">(Correct Answer)</strong></li>
+            <li>C. class</li>
+            <li>D. value</li>
+          </ul>
+          <p><strong>Question 5:</strong><span className="correct-answer"><strong> True</strong></span> or False: Unlike checkbox, only one radio button in a group can be selected at a time.</p>
+          <p><strong>Question 3:</strong>True or<span className="correct-answer"><strong> False:</strong></span> The radio group must share the same id to be treated as a group.</p>
+          <p><strong>Question 7:</strong> Which of the following is NOT a reason why we should use semantic elements?</p>
+          <ul>
+            <li>A. Readability and Maintainability</li>
+            <li>B. Reusability <strong className="correct-answer">(Correct Answer)</strong></li>
+            <li>C. Search Engine Optimization</li>
+            <li>D. User Accessibility</li>
+          </ul>
+          <p><strong>Question 5:</strong><span className="correct-answer"><strong> True</strong></span> or False: We use "iframe" to embed another document within the current HTML document.</p>
+          <p><strong>Question 9:</strong> What type of CSS do we use when we want to use the styling for multiple web pages?</p>
+          <ul>
+            <li>A. Inline</li>
+            <li>B. Embedded</li>
+            <li>C. Internal</li>
+            <li>D. <strong className="correct-answer">External (Correct Answer)</strong></li>
+          </ul>
+          <p><strong>Question 10:</strong> What is the syntax for the CSS id selector?</p>
+          <p>A.<strong className="correct-answer"> #sample-item { }</strong></p>
+          <p>B. .sample-item { }</p>
+          <p>C. sample-item { }</p>
+          <p>D. :sample-item { }</p>
+        </div>
+      ),
       icon: faImage,
     },
+    
     {
       id: '2a',
       title: 'Pseudocode and Flowchart',
