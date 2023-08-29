@@ -12,7 +12,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 const ExercisesPage = () => {
-  const [selectedExercise, setSelectedExercise] = useState('');
+  const [selectedExercise, setSelectedExercise] = useState('1c');
 
   const exercises = [
     {
@@ -123,6 +123,7 @@ const ExercisesPage = () => {
   const exerciseClickHandler = (exerciseId) => {
     setSelectedExercise(exerciseId);
   };
+  
 
   return (
     <div className="exercises-page">
