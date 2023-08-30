@@ -76,11 +76,11 @@
 
 // Flowchart
 .correct-answer {
-  color: $green-dark;
+  color: var(--success-300);
 }
 
 .text-danger {
-  color: $red-dark;
+  color: var(--error-300);
   font-size: .8rem;
 }
 
@@ -102,7 +102,7 @@
   }
 
   .text-danger {
-    color: $red;
+    color: var(--error-300);
     font-weight: bold;
   }
 }
@@ -121,7 +121,6 @@
   border-radius: 5px;
 
   ol {
-    list-style-type: decimal;
     padding-left: 20px;
     margin: 0;
   }
@@ -135,4 +134,6 @@
     border-radius: 5px;
   }
 }
+
+
 
