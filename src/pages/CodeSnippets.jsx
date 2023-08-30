@@ -4,7 +4,7 @@ import '../styles/pages/CodeSnippets.scss';
 const CodeSnippets = () => {
   return (
     <div className="codesnippets-page">
-          <h1>Code snippets</h1>
+          <h4>Code snippets</h4>
     </div>
   );
 };

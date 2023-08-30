@@ -5,7 +5,7 @@ import '../styles/pages/Courses.scss';
 const Courses = () => {
   return (
     <div className="courses-page">
-      <h1>Courses</h1>
+      <h4>Courses</h4>
        
     </div>
   );

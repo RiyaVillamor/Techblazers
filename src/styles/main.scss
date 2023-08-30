@@ -28,11 +28,11 @@ html {
   --primary-800: #661c00;
   --primary-900: #330e00;
   /* Secondary 30% */
-  --S-100: #fdea9e;
+  --s-100: #fdea9e;
   --s-200: #fcda56;
-  --S-300: #faca0d;
-  --S-400: #af8d09;
-  --S-500: #645105;
+  --s-300: #faca0d;
+  --s-400: #af8d09;
+  --s-500: #645105;
   /* Accent 30% */
   --accent-100: #b1a4bd;
   --accent-200: #775f8b;
@@ -172,6 +172,7 @@ small,
 a {
   text-decoration: none;
   color: var(--black);
+  cursor:pointer;
 }
 
 /* Unordered list styles */

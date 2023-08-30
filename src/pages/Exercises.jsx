@@ -228,7 +228,7 @@ const ExercisesPage = () => {
 
   return (
     <div className="exercises-page">
-      <h1>Exercises</h1>
+      <h4>Exercises</h4>
       <div className="exercise-container">
         <div className="exercise-list">
           {exercises.map((exercise) => (

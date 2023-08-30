@@ -184,7 +184,7 @@ const WebsiteProjects = () => {
   return (
     <div className="app">
       <div className="website-projects-page">
-        <h1>Web projects</h1>
+        <h4>Web projects</h4>
         <table className="class-record">
           <thead>
             <tr>

@@ -833,7 +833,7 @@ const classData = [
 const ClassRecording = () => {
   return (
     <div className="app">
-      <h1>Class Recording Compilation</h1>
+      <h4>Class Recording Compilation</h4>
       <table className="class-record">
         <thead>
           <tr>

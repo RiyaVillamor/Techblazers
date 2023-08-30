@@ -1,0 +1,53 @@
+[33mcommit 1f1cbc20a611a9ec0fb3f154a8b4b784e37b6731[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Wed Aug 30 18:11:30 2023 +0800
+
+    :style: Setting logo and color palette
+
+[33mcommit de8f585fb177a59ba04536c8f458144303a9c338[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Tue Aug 29 19:19:13 2023 +0800
+
+    :lipstick: create template and style for pseudocode exercises
+
+[33mcommit 98919a839f736865af2977bdc59e927299bb781e[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Tue Aug 29 18:02:17 2023 +0800
+
+    :memo: Added html and css exercises
+
+[33mcommit e62c247dcd5704d98b93276cba68b968d09d492e[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Tue Aug 29 16:16:43 2023 +0800
+
+    :zap: Set useState to '1c' to show the default value in exercises instead of a blank container
+
+[33mcommit 6ef88c759e9396029e33fa30dbd6f322700022d2[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Tue Aug 29 16:06:00 2023 +0800
+
+    :construction: Add intro to web dev exercises and enable filtering
+
+[33mcommit 7dfbe3d57d3d7a03b6c10f2277a81388455a1237[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Mon Aug 28 20:53:25 2023 +0800
+
+    :memo: Added all table data to the wesbite projects
+
+[33mcommit f6c12df947971c3f72d62a80f9390b1013973259[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Mon Aug 28 17:23:52 2023 +0800
+
+    :lipstick: Apply bold formatting to 'extra materials' for emphasis
+
+[33mcommit 6d97ea9945028a88a5fe327af2938f45aeca3ccb[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Mon Aug 28 17:01:48 2023 +0800
+
+    :memo: Added all table data to the class recording
+
+[33mcommit 86ae69c1bcc7d5317e6329388ed71146778d7aeb[m
+Author: Mariya Villamor <mariyavillamor@gmail.com>
+Date:   Mon Aug 28 14:26:11 2023 +0800
+
+    ✨ Set up project structures and sidebar menu
