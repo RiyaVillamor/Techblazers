@@ -5,37 +5,45 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
-  color: white;
-  font-family: 'Montserrat', sans-serif;
+  padding: .5rem;
+  color: var(--white);
+  font-family: $headingFont;
   font-weight: 600;
   font-size: 1.2rem;
 
   .toggle-button {
     background: none;
     border: none;
-    color: white;
+    color: var(--white);
     font-size: 18px;
     cursor: pointer;
     padding: 10px;
     transition: color 0.3s ease-in-out;
 
     &:hover {
-      color: #f0f0f0;
+      color: var(--white);
     }
   }
 }
 
 .logo-navbar {
-  font-family: 'Montserrat', sans-serif;
+  font-family: $headingFont;
   display: flex;
   align-items: center;
   gap: 10px;
   font-size: 1.3rem;
+  padding-left: .2rem;
+
+  p {
+    font-size: 1.7rem;
+  }
+  
+
 
   img {
     width: 3rem;
     height: 3rem;
     border-radius: 5px;
+    
   }
 }
