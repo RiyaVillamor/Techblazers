@@ -18,6 +18,16 @@ import './Sidebar.scss';
 const Sidebar = ({ isSidebarOpen, toggleSidebar }) => {
   return (
     <div className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
+      <div className="close-button">
+        <button
+          className="close-button"
+          type="button"
+          onClick={toggleSidebar}
+        >
+          <FontAwesomeIcon icon={faTimes} />
+          
+        </button>
+      </div>
       <div className="logo">
         <img src={Logo} alt="TechBlazers" />
       </div>
@@ -60,16 +70,7 @@ const Sidebar = ({ isSidebarOpen, toggleSidebar }) => {
         </Link>
       </div>
 
-      <div className="centered-button">
-        <button
-          className="btn btn-primary d-md-none close-button"
-          type="button"
-          onClick={toggleSidebar}
-        >
-          <FontAwesomeIcon icon={faTimes} />
-          
-        </button>
-      </div>
+      
     </div>
   );
 };

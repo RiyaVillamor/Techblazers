@@ -43,7 +43,7 @@
   gap: 1rem;
   padding-top: 1.3rem;
   width: 100%;
-  
+
 }
 
 .sidebar-icons a {
@@ -56,16 +56,16 @@
   width: 100%;
   padding: .5rem;
   padding-left: 2rem;
-  
+
 
 }
 
 /* Add hover effect */
 .sidebar-icons a:hover {
   background-color: rgba(255, 255, 255, 0.1);
-  height: 100%; 
- 
-  
+  height: 100%;
+
+
 }
 
 .sidebar-icons a svg {
@@ -73,4 +73,20 @@
   font-size: 1.3rem;
 }
 
- 
+
+.close-button {
+  @extend .btn;
+  background-color: transparent;
+  color: var(--white);
+  font-size: 1.3rem;
+  padding: 0;
+  align-self: flex-end;
+  margin-right: .5rem;
+  margin-top: -.3rem;
+
+
+  &:hover {
+    background-color: transparent;
+    color: var(--primary-500);
+  }
+}
