@@ -59,7 +59,7 @@ const projectData = [
   },
   {
     studentName: "Feliciano, Roldan E",
-    studentLink: "https://felicianoroldan.github.io/",
+    studentLink: "https://my-portfolio-lilac-mu-56.vercel.app/",
     projects: [
       { name: "SteadFastness", link: "https://felicianoroldan.github.io/SteadFastness/" },
       { name: "7: Exploredia", link: "https://exploredia.vercel.app/" },
@@ -103,7 +103,7 @@ const projectData = [
   },
   {
     studentName: "Marin, Matthew Rich Francisco",
-    studentLink: "https://matthewmarin.github.io/",
+    studentLink: "https://matthewrichmarin.vercel.app/",
     projects: [
       { name: "CapMedia Creatives", link: "https://matthewmarin.github.io/CapMedia-Creatives/" },
       { name: "2: Cinehub", link: "https://thecinehub.vercel.app/" },
@@ -125,7 +125,7 @@ const projectData = [
   },
   {
     studentName: "Paller, Lymar Paul Alib",
-    studentLink: "https://github.com/LymarPaller/LymarPaller.github.io",
+    studentLink: "https://portfolio-six-tau-49.vercel.app/",
     projects: [
       { name: "By.Olivia", link: "https://lymarpaller.github.io/by.olivia/" },
       { name: "4: Kairos", link: "https://kairos-weatherapp.vercel.app/" },
@@ -158,7 +158,7 @@ const projectData = [
   },
   {
     studentName: "Villamor, Mariya Venturina",
-    studentLink: "https://riyavillamor.github.io/",
+    studentLink: "https://mariyavillamor.vercel.app/",
     projects: [
       { name: "Cuisina", link: "https://riyavillamor.github.io/Cuisina/" },
       { name: "7: Exploredia", link: "https://exploredia.vercel.app/" },
